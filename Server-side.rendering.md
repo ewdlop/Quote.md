@@ -10,7 +10,7 @@ One company:
 It is tootally the oppsite!!
 
 MISC:
-5. Two Managers loves Blazor
+5. Two Managers loves Blazor. One knew i worked it a lot and one just....again same mindset..strange mindset...why
 
 Unknown third party: 
 
