@@ -1,5 +1,5 @@
 # ~~Quote.md~~
-# Quote.md
+# Quotes.md
 
 # Confessions from Hello World People
 
