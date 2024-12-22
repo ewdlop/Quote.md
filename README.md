@@ -1,6 +1,21 @@
 # ~~Quote.md~~
 # Quotes.md
 
+# Inspirational Quotes:
+
+“Never regret anything that made you smile.” – Mark Twain
+“Every moment is a fresh beginning.” – T.S Eliot
+“Everything you can imagine is real.” – Pablo Picasso
+“If you change the way you look at things, the things you look at change.” – Wayne Dyer
+“The manifesto of the dealmaker is simple: Reality is negotiable.” – Tim Ferriss
+“Imagination is everything.”
+“If we have the attitude that it’s going to be a great day, it usually is.” —Catherine Pulsifier
+“You can either experience the pain of discipline or the pain of regret.”
+“Impossible is just an opinion.” —Paulo Coelho
+“Your passion is waiting for your courage to catch up.” —Isabelle Lafleche
+“Magic is believing in yourself.”12
+
+
 # Confessions from Hello World People
 
 ---
